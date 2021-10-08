@@ -1,2 +1,2 @@
-# Personnel-Assistant
-This repository has files that together can work tasks like a personnel assistant.
+# Personal-Assistant
+Project exhibition winter semester 20-21
